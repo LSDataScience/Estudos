@@ -19,7 +19,7 @@ Aqui organizo os materiais, exercícios, projetos pessoais e demandas acadêmica
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no Descomplica.  
 💻 **Analista de Sistemas Pleno** na Santa Casa de Sorocaba, atuando em ambiente hospitalar 100% SUS.  
 📊 Focado em migração para área de **Business Intelligence e Data Science**.  
-📈 Investidor com estratégia de alocação por idade.  
+📈 Investidor com estratégia de alocação por idade.
 
 **Tecnologias e interesses:**  
 `Python` | `PL/SQL` | `Oracle` | `MariaDB` | `SQL` | `Power BI` | `ETL` | `BI` | `Data Science`
@@ -30,6 +30,7 @@ Aqui organizo os materiais, exercícios, projetos pessoais e demandas acadêmica
 
 - 🔗 [LinkedIn](https://linkedin.com/in/luccas-silva)
 - 🔗 [GitHub](https://github.com/LSDataScience)
+- 🔗 [E-mail](luccas_silva@outlook.com)
 
 ---
 
