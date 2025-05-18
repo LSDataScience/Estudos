@@ -13,9 +13,9 @@ Este projeto simula a operação de cadastros de restaurantes de um aplicativo f
 
 ## 📁 Estrutura de Pastas
 
-sabor-xpress/
-├── app.py
-├── README.md
+* sabor-xpress/
+* app.py
+* README.md
 
 ## 🚀 Como executar
 
