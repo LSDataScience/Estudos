@@ -1,0 +1,14 @@
+# Dependências
+node_modules/
+
+# Arquivos de log
+*.log
+
+# Cache do VS Code
+.vscode/
+
+# Build gerado
+/dist/
+/build/
+
+/*.env

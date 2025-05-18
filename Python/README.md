@@ -9,6 +9,8 @@ Este diretório contém projetos, exercícios e atividades relacionados aos meus
 - `sabor-xpress/` → Projeto desenvolvido no curso **Python: crie a sua primeira aplicação** da [Alura](https://www.alura.com.br/).
 - ***
 
+---
+
 ## 📌 Projetos Disponíveis
 
 | Projeto          | Descrição                                                                                              | Status       |
@@ -32,12 +34,18 @@ Este diretório contém projetos, exercícios e atividades relacionados aos meus
    git clone https://github.com/LSDataScience/Estudos.git
    ```
 2. Navegue até a pasta python:
+   ```bash
    cd Estudos/python
+   ```
 3. Execute os scripts conforme instruções de cada projeto.
+
+---
 
 ## 📖 Objetivo
 
 Centralizar todos os códigos de estudo e aprendizado de Python em um único local, organizando por cursos e projetos, seguindo boas práticas de versionamento.
+
+---
 
 ## 📎 Observações
 
@@ -47,11 +55,16 @@ Centralizar todos os códigos de estudo e aprendizado de Python em um único loc
 
 - O arquivo .gitignore foi configurado para ignorar arquivos e pastas desnecessários, como **pycache**/, .vscode/ e ambientes virtuais.
 
+---
+
 ## 📄 Licença
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais informações.
+
+---
 
 ## 📈 Contato e Portfólio
 
 - 🔗 [LinkedIn](https://linkedin.com/in/luccas-silva)
 - 🔗 [GitHub](https://github.com/LSDataScience)
+- 🔗 [E-mail](luccas_silva@outlook.com)
