@@ -19,15 +19,18 @@ sabor-xpress/
 
 ## 🚀 Como executar
 
-Clone este repositório e navegue até a pasta do projeto:
+1. Clone este repositório e navegue até a pasta do projeto:
 
-git clone https://github.com/LSDataScience/Estudos.git
+   ```bash
+   git clone https://github.com/LSDataScience/Estudos.git
 
-cd Estudos/Python/sabor-xpress
+   ```
 
-Para executar a aplicação:
+2. Navegue até a pasta sabor-xpress:
+   cd Estudos/Python/sabor-xpress
 
-python app.py
+3. Para executar a aplicação:
+   python app.py
 
 **Observação:** Certifique-se de estar com o Python instalado e configurado no PATH.
 
