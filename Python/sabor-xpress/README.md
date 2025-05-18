@@ -38,11 +38,14 @@ Este projeto simula a operação de cadastros de restaurantes de um aplicativo f
    ```
 
 3. Para executar a aplicação:
+
    ```bash
    python app.py
    ```
 
-**Observação:** Certifique-se de estar com o Python instalado e configurado no PATH.
+   ```
+   **Observação:** Certifique-se de estar com o Python instalado e configurado no PATH.
+   ```
 
 ---
 
