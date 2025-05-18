@@ -30,8 +30,10 @@ Este projeto simula a operação de cadastros de restaurantes de um aplicativo f
    cd Estudos/Python/sabor-xpress
 
 3. Para executar a aplicação:
+   ```bash
    python app.py
 
+   ```
 **Observação:** Certifique-se de estar com o Python instalado e configurado no PATH.
 
 ## 📓 Aprendizados
