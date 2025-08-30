@@ -1,0 +1,11 @@
+{
+    "arquivos": [
+        ".gitignore",
+        "README.md",
+        "verificar_atualizacoes_diretorio.ipynb"
+    ],
+    "subdiretorios": [
+        "projetos",
+        "sabor-xpress"
+    ]
+}

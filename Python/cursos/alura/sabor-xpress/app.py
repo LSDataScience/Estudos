@@ -1,9 +1,6 @@
 import os
 
-restaurantes = [{'nome':'Praça', 'categoria':'Japonesa', 'ativo':False}, 
-                {'nome':'Pizza Suprema', 'categoria':'Pizza', 'ativo':True},
-                {'nome':'Cantina', 'categoria':'Italiano', 'ativo':False}]
-
+# utils.py
 def exibir_nome_do_programa():
     ''' Exibe o nome estilizado do programa na tela '''
     print("""
@@ -56,6 +53,11 @@ def exibir_subtitulo(texto):
     print(texto)
     print(linha)
     print()
+
+# main.py
+restaurantes = [{'nome':'Praça', 'categoria':'Japonesa', 'ativo':False}, 
+                {'nome':'Pizza Suprema', 'categoria':'Pizza', 'ativo':True},
+                {'nome':'Cantina', 'categoria':'Italiano', 'ativo':False}]
 
 def cadastrar_novo_restaurante():
     ''' Essa função é responsável por cadastrar um novo restaurante 

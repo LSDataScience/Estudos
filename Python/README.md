@@ -6,8 +6,12 @@ Este diretório contém projetos, exercícios e atividades relacionados aos meus
 
 ## 📚 Estrutura
 
-- `sabor-xpress/` → Projeto desenvolvido no curso **Python: crie a sua primeira aplicação** da [Alura](https://www.alura.com.br/).
-- ***
+- `faculdade/` → materiais e exercícios da faculdade.
+- `livros/` → estudos baseados em livros.  
+  - Exemplo: `livros/pense-em-python/cap01_intro.ipynb`
+- `cursos/` → cursos online, bootcamps, etc.
+- `exercicios/` → exercícios gerais de prática.
+- `projetos/` → pequenos cases ou projetos práticos.
 
 ---
 

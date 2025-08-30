@@ -7,8 +7,14 @@ Aqui organizo os materiais, exercícios, projetos pessoais e demandas acadêmica
 
 ## 📂 Estrutura
 
-- **`faculdade/`** — Atividades, projetos e trabalhos desenvolvidos por semestre.
-- **`python/`** — Exercícios e projetos práticos de Python para análise de dados.
+- **`python/`** — Atividades, projetos e trabalhos desenvolvidos por semestre.
+  - `faculdade/` → materiais e exercícios da faculdade.
+  - `livros/` → estudos baseados em livros.  
+    - Exemplo: `livros/pense-em-python/cap01_intro.ipynb`
+  - `cursos/` → cursos online, bootcamps, etc.
+  - `exercicios/` → exercícios gerais de prática.
+  - `projetos/` → pequenos cases ou projetos práticos.
+- **`html/`**, **`css/`**, **`js/`** seguem a mesma estrutura de `cursos/`, `exercicios/` e `projetos/`.
 - **`sql/`** — Scripts e consultas desenvolvidas em Oracle, MariaDB, MySQL e SQL Server.
 - **`power-bi/`** — Dashboards, relatórios e indicadores interativos.
 
@@ -34,4 +40,4 @@ Aqui organizo os materiais, exercícios, projetos pessoais e demandas acadêmica
 
 ---
 
-**📝 Atualizado em: Maio/2025**
+**📝 Atualizado em: Agosto/2025**
